@@ -1,0 +1,2 @@
+Mysql itu DBMS bukan database
+API sekumpulan fungsi, protokol komunikasi
