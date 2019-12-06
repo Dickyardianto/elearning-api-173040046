@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Dicky Ardianto",
+        "umur": 20,
+        "nrp": "173040046",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Erik doang",
+            "pembimbing2": "Handoko S"
+        }
+    },
+    {
+        "nama": "Ardianto",
+        "umur": 20,
+        "nrp": "183040046",
+        "lulus": true,
+        "hobby": [
+            "multi",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Erik doang",
+            "pembimbing2": "Handoko S"
+        }
+    }
+]

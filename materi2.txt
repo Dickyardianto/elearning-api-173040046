@@ -1,0 +1,3 @@
+API adalah penghubung
+Rest API adalah aturannya
+Kita merequest dan kemudian ada responnya
